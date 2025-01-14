@@ -1,0 +1,14 @@
+body {
+  background-image: url("./assets/background0.jpg");
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.6);
+  background-color: rgb(59, 60, 61);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}

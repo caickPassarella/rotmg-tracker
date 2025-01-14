@@ -1,0 +1,307 @@
+{
+  "dungeons": [
+    {
+      "dungeonName": "spriteWorld",
+      "items": [
+        {
+          "id": "1",
+          "name": "Staff of Extreme Prejudice",
+          "image": "/src/assets/shiny/staffExtremePrejudice.png",
+          "shiny": true
+        },
+        {
+          "id": "2",
+          "name": "Cloak of the Planewalker",
+          "image": "/src/assets/shiny/planewalkerCloak.png",
+          "shiny": true
+        }
+      ]
+    },
+    {
+      "dungeonName": "undeadLair",
+      "items": [
+        {
+          "id": "3",
+          "name": "Doom Bow",
+          "image": "/src/assets/shiny/doomBow.png",
+          "shiny": true
+        }
+      ]
+    },
+    {
+      "dungeonName": "SulfurousWetlands",
+      "items": [
+        {
+          "id": "4",
+          "name": "Bogwood Crook",
+          "image": "/src/assets/shiny/bogwoodCrook.png",
+          "shiny": true
+        }
+      ]
+    },
+    {
+      "dungeonName": "DavyJones",
+      "items": [
+        {
+          "id": "5",
+          "name": "Spirit Dagger",
+          "image": "/src/assets/shiny/spiritDagger.png",
+          "shiny": true
+        }
+      ]
+    },
+    {
+      "dungeonName": "undeadLair",
+      "items": [
+        {
+          "id": "3",
+          "name": "Doom Bow",
+          "image": "/src/assets/shiny/doomBow.png",
+          "shiny": true
+        }
+      ]
+    },
+    {
+      "dungeonName": "undeadLair",
+      "items": [
+        {
+          "id": "3",
+          "name": "Doom Bow",
+          "image": "/src/assets/shiny/doomBow.png",
+          "shiny": true
+        }
+      ]
+    },
+    {
+      "dungeonName": "undeadLair",
+      "items": [
+        {
+          "id": "3",
+          "name": "Doom Bow",
+          "image": "/src/assets/shiny/doomBow.png",
+          "shiny": true
+        }
+      ]
+    },
+    {
+      "dungeonName": "undeadLair",
+      "items": [
+        {
+          "id": "3",
+          "name": "Doom Bow",
+          "image": "/src/assets/shiny/doomBow.png",
+          "shiny": true
+        }
+      ]
+    },
+    {
+      "dungeonName": "undeadLair",
+      "items": [
+        {
+          "id": "3",
+          "name": "Doom Bow",
+          "image": "/src/assets/shiny/doomBow.png",
+          "shiny": true
+        }
+      ]
+    },
+    {
+      "dungeonName": "undeadLair",
+      "items": [
+        {
+          "id": "3",
+          "name": "Doom Bow",
+          "image": "/src/assets/shiny/doomBow.png",
+          "shiny": true
+        }
+      ]
+    },
+    {
+      "dungeonName": "undeadLair",
+      "items": [
+        {
+          "id": "3",
+          "name": "Doom Bow",
+          "image": "/src/assets/shiny/doomBow.png",
+          "shiny": true
+        }
+      ]
+    },
+    {
+      "dungeonName": "undeadLair",
+      "items": [
+        {
+          "id": "3",
+          "name": "Doom Bow",
+          "image": "/src/assets/shiny/doomBow.png",
+          "shiny": true
+        }
+      ]
+    },
+    {
+      "dungeonName": "undeadLair",
+      "items": [
+        {
+          "id": "3",
+          "name": "Doom Bow",
+          "image": "/src/assets/shiny/doomBow.png",
+          "shiny": true
+        }
+      ]
+    },
+    {
+      "dungeonName": "undeadLair",
+      "items": [
+        {
+          "id": "3",
+          "name": "Doom Bow",
+          "image": "/src/assets/shiny/doomBow.png",
+          "shiny": true
+        }
+      ]
+    },
+    {
+      "dungeonName": "undeadLair",
+      "items": [
+        {
+          "id": "3",
+          "name": "Doom Bow",
+          "image": "/src/assets/shiny/doomBow.png",
+          "shiny": true
+        }
+      ]
+    },
+    {
+      "dungeonName": "undeadLair",
+      "items": [
+        {
+          "id": "3",
+          "name": "Doom Bow",
+          "image": "/src/assets/shiny/doomBow.png",
+          "shiny": true
+        }
+      ]
+    },
+    {
+      "dungeonName": "undeadLair",
+      "items": [
+        {
+          "id": "3",
+          "name": "Doom Bow",
+          "image": "/src/assets/shiny/doomBow.png",
+          "shiny": true
+        }
+      ]
+    },
+    {
+      "dungeonName": "undeadLair",
+      "items": [
+        {
+          "id": "3",
+          "name": "Doom Bow",
+          "image": "/src/assets/shiny/doomBow.png",
+          "shiny": true
+        }
+      ]
+    },
+    {
+      "dungeonName": "undeadLair",
+      "items": [
+        {
+          "id": "3",
+          "name": "Doom Bow",
+          "image": "/src/assets/shiny/doomBow.png",
+          "shiny": true
+        }
+      ]
+    },
+    {
+      "dungeonName": "undeadLair",
+      "items": [
+        {
+          "id": "3",
+          "name": "Doom Bow",
+          "image": "/src/assets/shiny/doomBow.png",
+          "shiny": true
+        }
+      ]
+    },
+    {
+      "dungeonName": "undeadLair",
+      "items": [
+        {
+          "id": "3",
+          "name": "Doom Bow",
+          "image": "/src/assets/shiny/doomBow.png",
+          "shiny": true
+        }
+      ]
+    },
+    {
+      "dungeonName": "undeadLair",
+      "items": [
+        {
+          "id": "3",
+          "name": "Doom Bow",
+          "image": "/src/assets/shiny/doomBow.png",
+          "shiny": true
+        }
+      ]
+    },
+    {
+      "dungeonName": "undeadLair",
+      "items": [
+        {
+          "id": "3",
+          "name": "Doom Bow",
+          "image": "/src/assets/shiny/doomBow.png",
+          "shiny": true
+        }
+      ]
+    },
+    {
+      "dungeonName": "undeadLair",
+      "items": [
+        {
+          "id": "3",
+          "name": "Doom Bow",
+          "image": "/src/assets/shiny/doomBow.png",
+          "shiny": true
+        }
+      ]
+    },
+    {
+      "dungeonName": "undeadLair",
+      "items": [
+        {
+          "id": "3",
+          "name": "Doom Bow",
+          "image": "/src/assets/shiny/doomBow.png",
+          "shiny": true
+        }
+      ]
+    },
+    {
+      "dungeonName": "undeadLair",
+      "items": [
+        {
+          "id": "3",
+          "name": "Doom Bow",
+          "image": "/src/assets/shiny/doomBow.png",
+          "shiny": true
+        }
+      ]
+    },
+    {
+      "dungeonName": "undeadLair",
+      "items": [
+        {
+          "id": "3",
+          "name": "Doom Bow",
+          "image": "/src/assets/shiny/doomBow.png",
+          "shiny": true
+        }
+      ]
+    }
+  ]
+}

@@ -6,27 +6,69 @@ import { Dungeon } from "./components/dungeonWrapper/dungeonWrapper";
 
 const Container = styled.div`
   display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+`;
+
+const ItemsWrapper = styled.div`
+  display: flex;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  max-width: 50vw;
-  padding: 30px;
-  gap: 8px;
-  background-color: #ffffffcf;
-  box-shadow: 0 0 2px #a789e0, 0 0 4px #a789e0, 0 0 5px #a789e0,
-    0 0 15px #a789e0, 0 0 20px #a789e0;
+  max-width: 55vw;
+  padding: 40px;
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  gap: 20px;
+  border-radius: 20px;
+  background-color: #3a4f7d;
+  -webkit-box-shadow: 12px 12px 31px -5px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 12px 12px 31px -5px rgba(0, 0, 0, 0.75);
+  box-shadow: 12px 12px 31px -5px rgba(0, 0, 0, 0.75);
+`;
+
+const TitleWrapper = styled.div`
+  display: flex;
+  justify-content: center;
+  align-items: center;
+`;
+
+const H1 = styled.h1`
+  color: #ffffff;
+  font-family: "Press Start 2P", serif;
+  font-size: 55px;
+  text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.5);
+  width: 58%;
+`;
+
+const Icon = styled.img`
+  width: 80px;
+  height: 80px;
+  /* IE, only works on <img> tags */
+  -ms-interpolation-mode: nearest-neighbor;
+  /* Firefox */
+  image-rendering: crisp-edges;
+  /* Chromium + Safari */
+  image-rendering: pixelated;
 `;
 
 function App() {
   return (
     <Container>
-      {items.dungeons.map((dungeon, index) => (
-        <Dungeon
-          dungeon={dungeon.dungeonName}
-          drops={dungeon.items}
-          key={index}
-        />
-      ))}
+      <TitleWrapper>
+        <Icon src={"/src/assets/whitebag.png"} />
+        <H1>RotMG Shiny Tracker</H1>
+        <Icon src={"/src/assets/whitebag.png"} />
+      </TitleWrapper>
+      <ItemsWrapper>
+        {items.dungeons.map((dungeon, index) => (
+          <Dungeon
+            dungeon={dungeon.dungeonName}
+            drops={dungeon.items}
+            key={index}
+          />
+        ))}
+      </ItemsWrapper>
     </Container>
   );
 }

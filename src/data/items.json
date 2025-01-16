@@ -36,6 +36,12 @@
           "name": "Bogwood Crook",
           "image": "/src/assets/shiny/bogwoodCrook.png",
           "shiny": true
+        },
+        {
+          "id": "4",
+          "name": "WarpedMantle",
+          "image": "/src/assets/shiny/WarpedMantle.png",
+          "shiny": true
         }
       ]
     },
@@ -51,254 +57,386 @@
       ]
     },
     {
-      "dungeonName": "undeadLair",
+      "dungeonName": "LairofDraconis",
       "items": [
         {
-          "id": "3",
-          "name": "Doom Bow",
-          "image": "/src/assets/shiny/doomBow.png",
+          "id": "6",
+          "name": "Celestial Blade",
+          "image": "/src/assets/shiny/CelestialBlade.png",
+          "shiny": true
+        },
+        {
+          "id": "7",
+          "name": "Fire Dragon Battle Armor",
+          "image": "/src/assets/shiny/FireDragonBattleArmor.png",
+          "shiny": true
+        },
+        {
+          "id": "8",
+          "name": "Water Dragon Silk Robe",
+          "image": "/src/assets/shiny/WaterDragonSilkRobe.png",
+          "shiny": true
+        },
+        {
+          "id": "9",
+          "name": "Midnight Star",
+          "image": "/src/assets/shiny/MidnightStar.png",
           "shiny": true
         }
       ]
     },
     {
-      "dungeonName": "undeadLair",
+      "dungeonName": "LostHalls",
       "items": [
         {
-          "id": "3",
-          "name": "Doom Bow",
-          "image": "/src/assets/shiny/doomBow.png",
+          "id": "10",
+          "name": "Sword of the Colossus",
+          "image": "/src/assets/shiny/SwordoftheColossus.png",
           "shiny": true
         }
       ]
     },
     {
-      "dungeonName": "undeadLair",
+      "dungeonName": "SnakePit",
       "items": [
         {
-          "id": "3",
-          "name": "Doom Bow",
-          "image": "/src/assets/shiny/doomBow.png",
+          "id": "11",
+          "name": "Snake Eye Ring",
+          "image": "/src/assets/shiny/SnakeEyeRing.png",
+          "shiny": true
+        },
+        {
+          "id": "12",
+          "name": "Snake Charmer Pungi",
+          "image": "/src/assets/shiny/SnakeCharmerPungi.png",
           "shiny": true
         }
       ]
     },
     {
-      "dungeonName": "undeadLair",
+      "dungeonName": "Candyland",
       "items": [
         {
-          "id": "3",
-          "name": "Doom Bow",
-          "image": "/src/assets/shiny/doomBow.png",
+          "id": "13",
+          "name": "Candy Ring",
+          "image": "/src/assets/shiny/CandyRing.png",
+          "shiny": true
+        },
+        {
+          "id": "14",
+          "name": "Candy Coated Armor",
+          "image": "/src/assets/shiny/CandyCoatedArmor.png",
           "shiny": true
         }
       ]
     },
     {
-      "dungeonName": "undeadLair",
+      "dungeonName": "HauntedCemetery",
       "items": [
         {
-          "id": "3",
-          "name": "Doom Bow",
-          "image": "/src/assets/shiny/doomBow.png",
+          "id": "15",
+          "name": "Souls Guidance",
+          "image": "/src/assets/shiny/SoulsGuidance.png",
+          "shiny": true
+        },
+        {
+          "id": "16",
+          "name": "Plague Poison",
+          "image": "/src/assets/shiny/PlaguePoison.png",
+          "shiny": true
+        },
+        {
+          "id": "17",
+          "name": "Resurrected Warriors Armor",
+          "image": "/src/assets/shiny/ResurrectedWarriorsArmor.png",
           "shiny": true
         }
       ]
     },
     {
-      "dungeonName": "undeadLair",
+      "dungeonName": "DeadwaterDocks",
       "items": [
         {
-          "id": "3",
-          "name": "Doom Bow",
-          "image": "/src/assets/shiny/doomBow.png",
+          "id": "18",
+          "name": "Pirate Kings Cutlass",
+          "image": "/src/assets/shiny/PirateKingsCutlass.png",
+          "shiny": true
+        },
+        {
+          "id": "18",
+          "name": "Wavecrest Concertina",
+          "image": "/src/assets/shiny/WavecrestConcertina.png",
           "shiny": true
         }
       ]
     },
     {
-      "dungeonName": "undeadLair",
+      "dungeonName": "PuppetMastersEncore",
       "items": [
         {
-          "id": "3",
-          "name": "Doom Bow",
-          "image": "/src/assets/shiny/doomBow.png",
+          "id": "19",
+          "name": "Prism of Dire Instability",
+          "image": "/src/assets/shiny/PrismofDireInstability.png",
           "shiny": true
         }
       ]
     },
     {
-      "dungeonName": "undeadLair",
+      "dungeonName": "CnidarianReef",
       "items": [
         {
-          "id": "3",
-          "name": "Doom Bow",
-          "image": "/src/assets/shiny/doomBow.png",
+          "id": "18",
+          "name": "Cnidarian Rod",
+          "image": "/src/assets/shiny/CnidariaRod.png",
           "shiny": true
         }
       ]
     },
     {
-      "dungeonName": "undeadLair",
+      "dungeonName": "ParasiteChambers",
       "items": [
         {
-          "id": "3",
-          "name": "Doom Bow",
-          "image": "/src/assets/shiny/doomBow.png",
+          "id": "19",
+          "name": "Scepter of Devastation",
+          "image": "/src/assets/shiny/ScepterofDevastation.png",
+          "shiny": true
+        },
+        {
+          "id": "19",
+          "name": "Recurring Terror Spell",
+          "image": "/src/assets/shiny/RecurringTerrorSpell.png",
           "shiny": true
         }
       ]
     },
     {
-      "dungeonName": "undeadLair",
+      "dungeonName": "MountainTemple",
       "items": [
         {
           "id": "3",
-          "name": "Doom Bow",
-          "image": "/src/assets/shiny/doomBow.png",
+          "name": "Wand of the Fallen",
+          "image": "/src/assets/shiny/WandoftheFallen.png",
           "shiny": true
         }
       ]
     },
     {
-      "dungeonName": "undeadLair",
+      "dungeonName": "TomboftheAncients",
       "items": [
         {
           "id": "3",
-          "name": "Doom Bow",
-          "image": "/src/assets/shiny/doomBow.png",
+          "name": "Tome of Holy Protection",
+          "image": "/src/assets/shiny/TomeofHolyProtection.png",
           "shiny": true
         }
       ]
     },
     {
-      "dungeonName": "undeadLair",
+      "dungeonName": "TheThirdDimension",
       "items": [
         {
           "id": "3",
-          "name": "Doom Bow",
-          "image": "/src/assets/shiny/doomBow.png",
+          "name": "Seal of Cubic Conundra",
+          "image": "/src/assets/shiny/SealofCubicConundra.png",
           "shiny": true
         }
       ]
     },
     {
-      "dungeonName": "undeadLair",
+      "dungeonName": "LairofShaitan",
       "items": [
         {
           "id": "3",
-          "name": "Doom Bow",
-          "image": "/src/assets/shiny/doomBow.png",
+          "name": "Skull of Endless Torment",
+          "image": "/src/assets/shiny/SkullofEndlessTorment.png",
           "shiny": true
         }
       ]
     },
     {
-      "dungeonName": "undeadLair",
+      "dungeonName": "SecludedThicket",
       "items": [
         {
           "id": "3",
-          "name": "Doom Bow",
-          "image": "/src/assets/shiny/doomBow.png",
+          "name": "Tezcacoatls Tail",
+          "image": "/src/assets/shiny/TezcacoatlsTail.png",
+          "shiny": true
+        },
+        {
+          "id": "3",
+          "name": "Penetrating Blast Spell",
+          "image": "/src/assets/shiny/PenetratingBlastSpell.png",
           "shiny": true
         }
       ]
     },
     {
-      "dungeonName": "undeadLair",
+      "dungeonName": "HighTechTerror",
       "items": [
         {
           "id": "3",
-          "name": "Doom Bow",
-          "image": "/src/assets/shiny/doomBow.png",
+          "name": "E.Y.E.",
+          "image": "/src/assets/shiny/EYE.png",
+          "shiny": true
+        },
+        {
+          "id": "3",
+          "name": "S.T.A.F.F.",
+          "image": "/src/assets/shiny/STAFF.png",
           "shiny": true
         }
       ]
     },
     {
-      "dungeonName": "undeadLair",
+      "dungeonName": "TheTavern",
       "items": [
         {
           "id": "3",
-          "name": "Doom Bow",
-          "image": "/src/assets/shiny/doomBow.png",
+          "name": "The Right Hook",
+          "image": "/src/assets/shiny/TheRightHook.png",
+          "shiny": true
+        },
+        {
+          "id": "3",
+          "name": "Double Vision Darts",
+          "image": "/src/assets/shiny/DoubleVisionDarts.png",
           "shiny": true
         }
       ]
     },
     {
-      "dungeonName": "undeadLair",
+      "dungeonName": "TheNest",
       "items": [
         {
           "id": "3",
-          "name": "Doom Bow",
-          "image": "/src/assets/shiny/doomBow.png",
+          "name": "Beekeeper's Flamethrower",
+          "image": "/src/assets/shiny/BeekeepersFlamethrower.png",
+          "shiny": true
+        },
+        {
+          "id": "3",
+          "name": "Hivemaster Helm",
+          "image": "/src/assets/shiny/HivemasterHelm.png",
           "shiny": true
         }
       ]
     },
     {
-      "dungeonName": "undeadLair",
+      "dungeonName": "CultistHideout",
       "items": [
         {
           "id": "3",
-          "name": "Doom Bow",
-          "image": "/src/assets/shiny/doomBow.png",
+          "name": "Skull of Corrupted Souls",
+          "image": "/src/assets/shiny/SkullofCorruptedSouls.png",
+          "shiny": true
+        },
+        {
+          "id": "3",
+          "name": "Ritual Robe",
+          "image": "/src/assets/shiny/RitualRobe.png",
           "shiny": true
         }
       ]
     },
     {
-      "dungeonName": "undeadLair",
+      "dungeonName": "FungalCavern",
       "items": [
         {
           "id": "3",
-          "name": "Doom Bow",
-          "image": "/src/assets/shiny/doomBow.png",
+          "name": "Crystal Shield",
+          "image": "/src/assets/shiny/CrystalShield.png",
+          "shiny": true
+        },
+        {
+          "id": "3",
+          "name": "Tome of the Mushroom Tribes",
+          "image": "/src/assets/shiny/TomeoftheMushroomTribes.png",
+          "shiny": true
+        },
+        {
+          "id": "3",
+          "name": "Sporous Spray Spell",
+          "image": "/src/assets/shiny/SporousSpraySpell.png",
+          "shiny": true
+        },
+        {
+          "id": "3",
+          "name": "Ring of Decades",
+          "image": "/src/assets/shiny/RingofDecades.png",
           "shiny": true
         }
       ]
     },
     {
-      "dungeonName": "undeadLair",
+      "dungeonName": "CrystalCavern",
       "items": [
         {
           "id": "3",
-          "name": "Doom Bow",
-          "image": "/src/assets/shiny/doomBow.png",
+          "name": "Star of Enlightenment",
+          "image": "/src/assets/shiny/StarofEnlightenment.png",
+          "shiny": true
+        },
+        {
+          "id": "3",
+          "name": "Fractal Blades",
+          "image": "/src/assets/shiny/FractalBlades.png",
+          "shiny": true
+        },
+        {
+          "id": "3",
+          "name": "Ring of Decades",
+          "image": "/src/assets/shiny/RingofDecades.png",
           "shiny": true
         }
       ]
     },
     {
-      "dungeonName": "undeadLair",
+      "dungeonName": "SpectralPenitentiary",
       "items": [
         {
           "id": "3",
-          "name": "Doom Bow",
-          "image": "/src/assets/shiny/doomBow.png",
+          "name": "Ocular Entrapment",
+          "image": "/src/assets/shiny/ocularentrapment.png",
           "shiny": true
         }
       ]
     },
     {
-      "dungeonName": "undeadLair",
+      "dungeonName": "KogboldSteamworks",
       "items": [
         {
           "id": "3",
-          "name": "Doom Bow",
-          "image": "/src/assets/shiny/doomBow.png",
+          "name": "Laser Pointer",
+          "image": "/src/assets/shiny/LaserPointer.png",
+          "shiny": true
+        },
+        {
+          "id": "3",
+          "name": "Scepter of Rust",
+          "image": "/src/assets/shiny/ScepterofRust.png",
+          "shiny": true
+        },
+        {
+          "id": "3",
+          "name": "Kogbold Enhancement Core",
+          "image": "/src/assets/shiny/KogboldEnhancementCore.png",
           "shiny": true
         }
       ]
     },
     {
-      "dungeonName": "undeadLair",
+      "dungeonName": "TheVoid",
       "items": [
         {
           "id": "3",
-          "name": "Doom Bow",
-          "image": "/src/assets/shiny/doomBow.png",
+          "name": "Bow of the Void",
+          "image": "/src/assets/shiny/BowoftheVoid.png",
+          "shiny": true
+        },
+        {
+          "id": "3",
+          "name": "Quiver of the Shadows",
+          "image": "/src/assets/shiny/QuiveroftheShadows.png",
           "shiny": true
         }
       ]

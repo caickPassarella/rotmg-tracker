@@ -38,7 +38,7 @@
           "shiny": true
         },
         {
-          "id": "4",
+          "id": "5",
           "name": "WarpedMantle",
           "image": "/src/assets/shiny/WarpedMantle.png",
           "shiny": true
@@ -49,7 +49,7 @@
       "dungeonName": "DavyJones",
       "items": [
         {
-          "id": "5",
+          "id": "6",
           "name": "Spirit Dagger",
           "image": "/src/assets/shiny/spiritDagger.png",
           "shiny": true
@@ -60,25 +60,25 @@
       "dungeonName": "LairofDraconis",
       "items": [
         {
-          "id": "6",
+          "id": "7",
           "name": "Celestial Blade",
           "image": "/src/assets/shiny/CelestialBlade.png",
           "shiny": true
         },
         {
-          "id": "7",
+          "id": "8",
           "name": "Fire Dragon Battle Armor",
           "image": "/src/assets/shiny/FireDragonBattleArmor.png",
           "shiny": true
         },
         {
-          "id": "8",
+          "id": "9",
           "name": "Water Dragon Silk Robe",
           "image": "/src/assets/shiny/WaterDragonSilkRobe.png",
           "shiny": true
         },
         {
-          "id": "9",
+          "id": "10",
           "name": "Midnight Star",
           "image": "/src/assets/shiny/MidnightStar.png",
           "shiny": true
@@ -89,7 +89,7 @@
       "dungeonName": "LostHalls",
       "items": [
         {
-          "id": "10",
+          "id": "11",
           "name": "Sword of the Colossus",
           "image": "/src/assets/shiny/SwordoftheColossus.png",
           "shiny": true
@@ -100,13 +100,13 @@
       "dungeonName": "SnakePit",
       "items": [
         {
-          "id": "11",
+          "id": "12",
           "name": "Snake Eye Ring",
           "image": "/src/assets/shiny/SnakeEyeRing.png",
           "shiny": true
         },
         {
-          "id": "12",
+          "id": "13",
           "name": "Snake Charmer Pungi",
           "image": "/src/assets/shiny/SnakeCharmerPungi.png",
           "shiny": true
@@ -117,13 +117,13 @@
       "dungeonName": "Candyland",
       "items": [
         {
-          "id": "13",
+          "id": "14",
           "name": "Candy Ring",
           "image": "/src/assets/shiny/CandyRing.png",
           "shiny": true
         },
         {
-          "id": "14",
+          "id": "15",
           "name": "Candy Coated Armor",
           "image": "/src/assets/shiny/CandyCoatedArmor.png",
           "shiny": true
@@ -134,19 +134,19 @@
       "dungeonName": "HauntedCemetery",
       "items": [
         {
-          "id": "15",
+          "id": "16",
           "name": "Souls Guidance",
           "image": "/src/assets/shiny/SoulsGuidance.png",
           "shiny": true
         },
         {
-          "id": "16",
+          "id": "17",
           "name": "Plague Poison",
           "image": "/src/assets/shiny/PlaguePoison.png",
           "shiny": true
         },
         {
-          "id": "17",
+          "id": "18",
           "name": "Resurrected Warriors Armor",
           "image": "/src/assets/shiny/ResurrectedWarriorsArmor.png",
           "shiny": true
@@ -157,13 +157,13 @@
       "dungeonName": "DeadwaterDocks",
       "items": [
         {
-          "id": "18",
+          "id": "19",
           "name": "Pirate Kings Cutlass",
           "image": "/src/assets/shiny/PirateKingsCutlass.png",
           "shiny": true
         },
         {
-          "id": "18",
+          "id": "20",
           "name": "Wavecrest Concertina",
           "image": "/src/assets/shiny/WavecrestConcertina.png",
           "shiny": true
@@ -174,7 +174,7 @@
       "dungeonName": "PuppetMastersEncore",
       "items": [
         {
-          "id": "19",
+          "id": "21",
           "name": "Prism of Dire Instability",
           "image": "/src/assets/shiny/PrismofDireInstability.png",
           "shiny": true
@@ -185,7 +185,7 @@
       "dungeonName": "CnidarianReef",
       "items": [
         {
-          "id": "18",
+          "id": "22",
           "name": "Cnidarian Rod",
           "image": "/src/assets/shiny/CnidariaRod.png",
           "shiny": true
@@ -196,13 +196,13 @@
       "dungeonName": "ParasiteChambers",
       "items": [
         {
-          "id": "19",
+          "id": "23",
           "name": "Scepter of Devastation",
           "image": "/src/assets/shiny/ScepterofDevastation.png",
           "shiny": true
         },
         {
-          "id": "19",
+          "id": "24",
           "name": "Recurring Terror Spell",
           "image": "/src/assets/shiny/RecurringTerrorSpell.png",
           "shiny": true
@@ -213,7 +213,7 @@
       "dungeonName": "MountainTemple",
       "items": [
         {
-          "id": "3",
+          "id": "25",
           "name": "Wand of the Fallen",
           "image": "/src/assets/shiny/WandoftheFallen.png",
           "shiny": true
@@ -224,7 +224,7 @@
       "dungeonName": "TomboftheAncients",
       "items": [
         {
-          "id": "3",
+          "id": "26",
           "name": "Tome of Holy Protection",
           "image": "/src/assets/shiny/TomeofHolyProtection.png",
           "shiny": true
@@ -235,7 +235,7 @@
       "dungeonName": "TheThirdDimension",
       "items": [
         {
-          "id": "3",
+          "id": "27",
           "name": "Seal of Cubic Conundra",
           "image": "/src/assets/shiny/SealofCubicConundra.png",
           "shiny": true
@@ -246,7 +246,7 @@
       "dungeonName": "LairofShaitan",
       "items": [
         {
-          "id": "3",
+          "id": "28",
           "name": "Skull of Endless Torment",
           "image": "/src/assets/shiny/SkullofEndlessTorment.png",
           "shiny": true
@@ -257,13 +257,13 @@
       "dungeonName": "SecludedThicket",
       "items": [
         {
-          "id": "3",
+          "id": "29",
           "name": "Tezcacoatls Tail",
           "image": "/src/assets/shiny/TezcacoatlsTail.png",
           "shiny": true
         },
         {
-          "id": "3",
+          "id": "30",
           "name": "Penetrating Blast Spell",
           "image": "/src/assets/shiny/PenetratingBlastSpell.png",
           "shiny": true
@@ -274,13 +274,13 @@
       "dungeonName": "HighTechTerror",
       "items": [
         {
-          "id": "3",
+          "id": "31",
           "name": "E.Y.E.",
           "image": "/src/assets/shiny/EYE.png",
           "shiny": true
         },
         {
-          "id": "3",
+          "id": "32",
           "name": "S.T.A.F.F.",
           "image": "/src/assets/shiny/STAFF.png",
           "shiny": true
@@ -291,13 +291,13 @@
       "dungeonName": "TheTavern",
       "items": [
         {
-          "id": "3",
+          "id": "33",
           "name": "The Right Hook",
           "image": "/src/assets/shiny/TheRightHook.png",
           "shiny": true
         },
         {
-          "id": "3",
+          "id": "34",
           "name": "Double Vision Darts",
           "image": "/src/assets/shiny/DoubleVisionDarts.png",
           "shiny": true
@@ -308,13 +308,13 @@
       "dungeonName": "TheNest",
       "items": [
         {
-          "id": "3",
+          "id": "35",
           "name": "Beekeeper's Flamethrower",
           "image": "/src/assets/shiny/BeekeepersFlamethrower.png",
           "shiny": true
         },
         {
-          "id": "3",
+          "id": "36",
           "name": "Hivemaster Helm",
           "image": "/src/assets/shiny/HivemasterHelm.png",
           "shiny": true
@@ -325,13 +325,13 @@
       "dungeonName": "CultistHideout",
       "items": [
         {
-          "id": "3",
+          "id": "37",
           "name": "Skull of Corrupted Souls",
           "image": "/src/assets/shiny/SkullofCorruptedSouls.png",
           "shiny": true
         },
         {
-          "id": "3",
+          "id": "38",
           "name": "Ritual Robe",
           "image": "/src/assets/shiny/RitualRobe.png",
           "shiny": true
@@ -342,25 +342,25 @@
       "dungeonName": "FungalCavern",
       "items": [
         {
-          "id": "3",
+          "id": "39",
           "name": "Crystal Shield",
           "image": "/src/assets/shiny/CrystalShield.png",
           "shiny": true
         },
         {
-          "id": "3",
+          "id": "40",
           "name": "Tome of the Mushroom Tribes",
           "image": "/src/assets/shiny/TomeoftheMushroomTribes.png",
           "shiny": true
         },
         {
-          "id": "3",
+          "id": "41",
           "name": "Sporous Spray Spell",
           "image": "/src/assets/shiny/SporousSpraySpell.png",
           "shiny": true
         },
         {
-          "id": "3",
+          "id": "42",
           "name": "Ring of Decades",
           "image": "/src/assets/shiny/RingofDecades.png",
           "shiny": true
@@ -371,19 +371,19 @@
       "dungeonName": "CrystalCavern",
       "items": [
         {
-          "id": "3",
+          "id": "43",
           "name": "Star of Enlightenment",
           "image": "/src/assets/shiny/StarofEnlightenment.png",
           "shiny": true
         },
         {
-          "id": "3",
+          "id": "44",
           "name": "Fractal Blades",
           "image": "/src/assets/shiny/FractalBlades.png",
           "shiny": true
         },
         {
-          "id": "3",
+          "id": "45",
           "name": "Ring of Decades",
           "image": "/src/assets/shiny/RingofDecades.png",
           "shiny": true
@@ -394,7 +394,7 @@
       "dungeonName": "SpectralPenitentiary",
       "items": [
         {
-          "id": "3",
+          "id": "46",
           "name": "Ocular Entrapment",
           "image": "/src/assets/shiny/ocularentrapment.png",
           "shiny": true
@@ -405,19 +405,19 @@
       "dungeonName": "KogboldSteamworks",
       "items": [
         {
-          "id": "3",
+          "id": "47",
           "name": "Laser Pointer",
           "image": "/src/assets/shiny/LaserPointer.png",
           "shiny": true
         },
         {
-          "id": "3",
+          "id": "48",
           "name": "Scepter of Rust",
           "image": "/src/assets/shiny/ScepterofRust.png",
           "shiny": true
         },
         {
-          "id": "3",
+          "id": "49",
           "name": "Kogbold Enhancement Core",
           "image": "/src/assets/shiny/KogboldEnhancementCore.png",
           "shiny": true
@@ -428,13 +428,13 @@
       "dungeonName": "TheVoid",
       "items": [
         {
-          "id": "3",
+          "id": "50",
           "name": "Bow of the Void",
           "image": "/src/assets/shiny/BowoftheVoid.png",
           "shiny": true
         },
         {
-          "id": "3",
+          "id": "51",
           "name": "Quiver of the Shadows",
           "image": "/src/assets/shiny/QuiveroftheShadows.png",
           "shiny": true
